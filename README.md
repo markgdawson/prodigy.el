@@ -1,6 +1,6 @@
 
 This is a personal fork for Prodigy which merges the following pull request:
-https://github.com/rejeep/prodigy.el/pull/106
+https://github.com/rejeep/prodigy.el/pull/106 to allow auto-start
 
 # Prodigy
 
