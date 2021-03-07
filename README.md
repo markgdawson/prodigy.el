@@ -1,3 +1,7 @@
+
+This is a personal fork for Prodigy which merges the following pull request:
+https://github.com/rejeep/prodigy.el/pull/106
+
 # Prodigy
 
 Manage external services from within Emacs
